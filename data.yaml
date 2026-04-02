@@ -1,0 +1,6 @@
+path: C:/Repositorios/Retangulo_YOLO
+train: train/images
+val: train/images
+
+nc: 1
+names: ['Retangulo']
